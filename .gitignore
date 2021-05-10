@@ -33,3 +33,9 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+# Notes
+notes.txt
+
+# Outfits directory
+outfits
